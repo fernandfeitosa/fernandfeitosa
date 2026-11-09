@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, prazer em te ver.</h1>
 
 <p align="left">
 <a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -10,8 +10,8 @@
 
 <br>
 
-Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
-I support Manchester United 👿 and Barcelona 😎.
+Olá, eu sou o [Abhishek Maira](https://www.abhishekmaira.com/), desenvolvedor web e de aplicativos 👨🏻‍💻 da Índia. Sou entusiasta da resolução criativa de problemas e um cara de produto, com um amor cada vez maior por produtos incríveis. Tenho orgulho de dizer que **consigo centralizar um elemento com CSS com sucesso.** Além de hackear coisas, jogo xadrez ♘ e FIFA ⚽.
+Torço para o Manchester United 👿 e para o Barcelona 😎.
 
 <br>
 
@@ -21,8 +21,8 @@ I support Manchester United 👿 and Barcelona 😎.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
+ - 📫 Como falar comigo: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
+ - 🔗 Meu site: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
  
  <br>
 
@@ -30,7 +30,7 @@ I support Manchester United 👿 and Barcelona 😎.
  
  </br>
 
-**Languages and Tools:**
+**Linguagens e Ferramentas:**
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -49,7 +49,7 @@ I support Manchester United 👿 and Barcelona 😎.
 
 
 ---
-### 📢 Find me elsewhere
+### 📢 Me encontre em outros lugares
 <p align="left">
   <a href="https://www.codechef.com/users/abhimaira_10">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
@@ -71,7 +71,7 @@ I support Manchester United 👿 and Barcelona 😎.
 <hr>
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 Minhas Estatísticas do GitHub</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
@@ -87,5 +87,5 @@ I support Manchester United 👿 and Barcelona 😎.
 </a>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Demonstre carinho ❤️ dando estrela em alguns dos repositórios!
 </div>
